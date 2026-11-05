@@ -1,0 +1,8 @@
+---
+description: Cursor-specific conventions for this repo (AGENTS.md has the shared rules)
+alwaysApply: true
+---
+
+- AGENTS.md at the repo root holds the shared rules; follow it first.
+- Prefer the integrated terminal for pnpm commands so output stays in context.
+- When a task touches src/billing/, read AGENTS.md "Ask before" and stop for confirmation.
